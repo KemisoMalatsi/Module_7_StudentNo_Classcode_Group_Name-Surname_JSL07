@@ -10,6 +10,6 @@ You can also close the modal with close button.
 -CSS
 -JavaScript
 
-## Markdown Imagegit 
+## Markdown Image
 
 ![alt text](<JSL07 Solution.gif>)
