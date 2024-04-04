@@ -6,9 +6,9 @@ You can also close the modal with close button.
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
+-HTML
+-CSS
+-JavaScript
 
 ## Markdown Imagegit 
 
