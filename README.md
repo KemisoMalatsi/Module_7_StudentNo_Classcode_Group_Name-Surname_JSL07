@@ -13,4 +13,3 @@ You can also close the modal with close button.
 ## Markdown Imagegit 
 
 ![alt text](<JSL07 Solution.gif>)
-
