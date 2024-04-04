@@ -29,9 +29,10 @@ document.addEventListener('DOMContentLoaded', function () {
       <h3>Certificate of Archievement</h3>
       <p>This is to certify that</p>
       <h2>${studentName}</h2>
-      <p>has successfully completed the course</p>
+      <p>has almost completed</p>
       <h2>${courseName}</h2>
-      <p>and is awarded this certificate.</p>
+      <p>With legendary perseverence and world-class bad-assery for never giving up/p>
+      <img src="/logo.png" alt="codespace-logo">
       <p>Personal Message:</p>
       <p>${personalMessage}</p>
       `;
